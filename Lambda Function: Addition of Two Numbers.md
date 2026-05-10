@@ -9,8 +9,21 @@ To write a Python program that defines a **lambda function** which takes two arg
 3. Call the function with the user inputs and print the result.
 
 ## 🧾 Program
-Add code here
+```
+add = lambda a, b: a + b
 
+x = int(input("Enter first number: "))
+y = int(input("Enter second number: "))
+
+print("Sum is:", add(x, y))
+```
 ## Output
+```
+Enter first number: 8
+Enter second number: 12
+Sum is: 20
+```
+
 
 ## Result
+the output is verified
