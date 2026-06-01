@@ -18,11 +18,7 @@ y = int(input("Enter second number: "))
 print("Sum is:", add(x, y))
 ```
 ## Output
-```
-Enter first number: 8
-Enter second number: 12
-Sum is: 20
-```
+<img width="354" height="168" alt="{336C88BD-CD71-4ED1-9600-D257F9E32373}" src="https://github.com/user-attachments/assets/5bd4d38b-319a-4b68-89a7-fe7b20f4bd19" />
 
 
 ## Result
