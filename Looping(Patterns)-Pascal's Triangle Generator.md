@@ -40,15 +40,7 @@ for i in range(n):
 
 
 ## Sample Output
-```
-Enter number of rows: 5
-1
-1 1
-1 2 1
-1 3 3 1
-1 4 6 4 1
-```
-
+<img width="611" height="683" alt="image" src="https://github.com/user-attachments/assets/b6b80a51-8ca9-4995-837c-7a839857362e" />
 
 ## Result
 the output is verified
