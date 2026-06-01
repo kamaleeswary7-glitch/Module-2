@@ -33,9 +33,7 @@ else:
     print(num, "is not a palindrome")
 ```
 ## Output
-```
-Enter a number: 121
-121 is a palindrome
-```
+<img width="593" height="114" alt="WhatsApp Image 2026-05-28 at 8 26 29 PM" src="https://github.com/user-attachments/assets/3793f9bf-e2b9-490e-b64c-03b5f0f4fca1" />
+
 ## Result
 the output is verified
