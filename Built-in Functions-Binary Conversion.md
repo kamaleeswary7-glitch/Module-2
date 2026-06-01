@@ -17,9 +17,7 @@ print(binary)
 ```
 
 ## Output
-```
-10000
-```
+<img width="385" height="133" alt="{32528F10-66B8-4E99-BA0A-423DD4E0FFB0}" src="https://github.com/user-attachments/assets/4ecd9809-baef-4b96-b9bf-9a7409815add" />
 
 
 ## Result
